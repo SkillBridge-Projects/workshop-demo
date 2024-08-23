@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Pradeep",
+        "isAdmin": true
+    },
+    {
+        "name": "Javeed",
+        "isAdmin": false
+    },
+    {
+        "name": "Nawaz",
+        "isAdmin": false
+    },
+    {
+        "name": "Chinna",
+        "isAdmin": false
+    }
+]
